@@ -9,8 +9,8 @@ keywords:
 - mosquitto
 - eclipse-iot
 maintainers:
-- email: helm@gavinmogan.com
-  name: Gavin Mogan
+- email: nandan.thakur@outlook.com
+  name: Nandan
 name: mosquitto
 sources:
 - https://github.com/eclipse/mosquitto
